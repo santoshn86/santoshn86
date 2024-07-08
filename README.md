@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Santosh Narwad and I'm a looking for SDE and in Data Science domain as well internship for 3 to 6 months and right now I am ready to contribute my skills in your industries, I'm from Pune, Maharashtra 411018. </h2>
+<h2 align="left">Hi 👋! My name is Santosh Narwad and I'm from Pune, Maharashtra 411018. As a recent under-graduate with a keen interest in AI and Data Science, I bring a solid foundation in programming languages such as Python and SQL. My academic background in "AI and Data Science" and also completed diploma in "Computer Science Engineering " has equipped me with the necessary skills to tackle complex problems and derive meaningful insights from data. With a strong dedication to continuous learning and a passion for innovation, I am eager to contribute to dynamic teams in the AI and Data Science domain.  </h2>
 
 ###
 
