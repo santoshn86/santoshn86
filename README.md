@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Santosh Narwad and I'm a looking for SDE internship for 3 to 6 months and right now I am ready to contribute my skills in your industries, I'm from Pune, Maharashtra 411018. </h2>
+<h2 align="left">Hi 👋! My name is Santosh Narwad and I'm a looking for SDE and in Data Science domain as well internship for 3 to 6 months and right now I am ready to contribute my skills in your industries, I'm from Pune, Maharashtra 411018. </h2>
 
 ###
 
